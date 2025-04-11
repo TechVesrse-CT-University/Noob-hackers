@@ -5,12 +5,9 @@
 Experience the application: [Health Management System]:  https://p2x5t-yqaaa-aaaah-arcma-cai.icp0.io/#/project-details 
 
 
-<div align="center">
+
   ![image](https://github.com/user-attachments/assets/a4472ff4-90b6-45a7-90a9-103cd20faabc)
 
-  <img src="https://img.freepik.com/free-vector/health-medical-app-online-mobile-phone_23-2148636827.jpg" alt="Health Management System Logo" width="300"/>
-  <p><em>A secure, intelligent platform for managing your healthcare records</em></p>
-</div>
 
 ## 📋 Table of Contents
 - [Live Demo](#live-demo)
