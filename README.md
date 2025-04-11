@@ -2,7 +2,6 @@
 
 # Health Management System (Domain: HealthCare)
 
-![image](https://github.com/user-attachments/assets/44e42083-49da-4c54-93e8-cff6ff690e9c)
 
 ## 🔗 Live Demo
 
@@ -60,7 +59,8 @@ Health Management System is a comprehensive platform built on the Internet Compu
 
 The application prioritizes security, privacy, and user experience while leveraging the decentralized benefits of the Internet Computer to ensure your health data remains under your control.
 
-![image](https://github.com/user-attachments/assets/cfc17711-02dc-4520-afc0-64be8a9cc66e)
+![image](https://github.com/user-attachments/assets/a0a13505-1296-4de7-9039-3df353942293)
+
 
 
 
@@ -81,6 +81,9 @@ The application prioritizes security, privacy, and user experience while leverag
 - **🌓 Dark/Light Mode**: Customize your visual experience to reduce eye strain
 - **📅 Appointment Tracking**: Manage your medical appointments and receive reminders
 - **⚡ Offline Capability**: Access critical information even without an internet connection
+
+![image](https://github.com/user-attachments/assets/44e42083-49da-4c54-93e8-cff6ff690e9c)
+
 
 ![image](https://github.com/user-attachments/assets/ab3beff6-d365-4d4a-860e-7501e63b59df)
 
