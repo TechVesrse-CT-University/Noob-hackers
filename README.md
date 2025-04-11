@@ -1,4 +1,8 @@
+![image](https://github.com/user-attachments/assets/b5505462-dd76-401e-b9e3-189d1788998c)
+
 # Health Management System (Domain: HealthCare)
+
+![image](https://github.com/user-attachments/assets/44e42083-49da-4c54-93e8-cff6ff690e9c)
 
 ## 🔗 Live Demo
 
@@ -34,6 +38,9 @@ In traditional healthcare systems, patient records are often:
   5. Not fully owned or controlled by patients, despite being about their health.
 These challenges create barriers in delivering timely, coordinated, and patient-centric care.
 
+![image](https://github.com/user-attachments/assets/828469d5-b19e-4e8b-9864-5deace8a7196)
+
+
 ## 💡 Our Solution
 We present a Blockchain-Based Healthcare Management System that uses blockchain to securely store and manage patient health records in a decentralized, tamper-proof, and transparent manner.
 Key Features:
@@ -42,12 +49,20 @@ Key Features:
   👥 Patient-Centric Ownership: Patients control access to their records through cryptographic keys and smart contracts.
   🧾 Auditability: Every transaction and access to medical data is logged and traceable.
 
+![image](https://github.com/user-attachments/assets/c9b8905b-2317-4a01-af3c-0ecb175b06c7)
+
+![image](https://github.com/user-attachments/assets/7f1b1822-8392-4f96-ad1d-04c57aabd0cc)
+
   
 ## 🌟 Overview
 
 Health Management System is a comprehensive platform built on the Internet Computer (IC) blockchain that empowers users to securely store, manage, and share their health records. With features like ABHA integration, AI-powered disease prediction, and an intuitive interface, it transforms how individuals interact with their healthcare data.
 
 The application prioritizes security, privacy, and user experience while leveraging the decentralized benefits of the Internet Computer to ensure your health data remains under your control.
+
+![image](https://github.com/user-attachments/assets/cfc17711-02dc-4520-afc0-64be8a9cc66e)
+
+
 
 ## 🔑 Key Features
 
@@ -56,6 +71,9 @@ The application prioritizes security, privacy, and user experience while leverag
 - **🔄 Cross-Provider Data Sharing**: Securely share records with healthcare providers
 - **🔐 Blockchain-Based Security**: Utilize Internet Computer's secure architecture for data protection
 - **📱 Responsive Design**: Access your health data seamlessly across desktop and mobile devices
+  
+![image](https://github.com/user-attachments/assets/5282781f-29cb-44bf-b778-bb6b2313cd33)
+
 
 ### Advanced Features
 - **🇮🇳 ABHA Integration**: Connect with India's Ayushman Bharat Health Account system for national health ID compatibility
@@ -64,11 +82,22 @@ The application prioritizes security, privacy, and user experience while leverag
 - **📅 Appointment Tracking**: Manage your medical appointments and receive reminders
 - **⚡ Offline Capability**: Access critical information even without an internet connection
 
+![image](https://github.com/user-attachments/assets/ab3beff6-d365-4d4a-860e-7501e63b59df)
+
+![image](https://github.com/user-attachments/assets/13ac9d91-1732-42d1-a467-8d0cff6fc149)
+
+![image](https://github.com/user-attachments/assets/7c97190b-6582-4300-a4ca-5429dbc36158)
+
+
 ### User Experience
 - **🎨 Intuitive Interface**: Easy-to-navigate dashboard with visual health summaries
 - **✨ Smooth Animations**: Polished user experience with Framer Motion animations
 - **📊 Visual Data Representation**: View your health trends through interactive charts
 - **🔔 Notification System**: Stay informed about important health updates
+
+![image](https://github.com/user-attachments/assets/8a44883b-5fe4-49a2-ac03-fd1148370738)
+
+![image](https://github.com/user-attachments/assets/fd9b915f-2664-4c6e-811e-755c4dc9e278)
 
 ## 🛠️ Tech Stack
 
